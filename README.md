@@ -27,7 +27,7 @@ Hi, I'm [Ammar Ahmed](https://ammar2852021.github.io/mero/) A Passionate Self-Ta
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
    -->
 - 💼 Any Freelance Work ? Do Reach [Email](mailto:AmmarAhmed132004@outlook.com) :)
-- 💬 Ask Me About Anything I Am Happy To Help ;
+- 💬 Ask Me About Anything I Am Happy To Help .
 
  
 <h3 align="left">Languages and Tools:</h3>
