@@ -5,7 +5,7 @@
 </p> 
 
 
-<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/ammar-ahmed-543a58253)">
+<a href="https://www.linkedin.com/in/ammar-ahmed-543a58253">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
