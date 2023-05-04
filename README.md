@@ -21,8 +21,7 @@
 
 <br />
 
-hi, i'm [Ammar Ahmed](https://ammar2852021.github.io/mero/),  A passionate self-taught web developer and freelance software engineer from Egypt My passion for software lies in dreaming of ideas and making them come true through elegant interfaces
-I am also enthusiastic and an open source supervisor. I learned a lot from the open source community and I love how collaboration and knowledge sharing happened through open source
+hi, i'm [Ammar Ahmed](https://ammar2852021.github.io/mero/),  A Passionate Self-Taught Web Developer And Freelance Software Engineer From Egypt My Passion For Software Lies In Dreaming Of Ideas And Making Them Come True Through Elegant Interfaces I Am Also Enthusiastic And An Open Source Supervisor. I Learned A Lot From The Open Source Community And I Love How Collaboration And Knowledge Sharing Happened Through Open Source
 
 
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
