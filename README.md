@@ -18,7 +18,7 @@
 
 
 
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/Ammar132004">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
